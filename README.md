@@ -1,5 +1,5 @@
 # Cognitive-Search-in-Azure-ML
-Azure Cognitive Search ou Azure AI Search (a ferramenta/recurso principal que será utilizado nesse repositório), é um serviço que oferece recuperação de informações segura em escala sobre conteúdo de propriedade do usuário em aplicativos de busca tradicionais e conversacionais que tem funcionalidades como motor de busca, síntaxe de consultas avançadas, formatos de documentos em JSON, integração direto com outros serviços da plataforma e entre outros
+Azure Cognitive Search ou Azure AI Search, é um serviço que oferece recuperação de informações segura em escala sobre conteúdo de propriedade do usuário em aplicativos de busca tradicionais e conversacionais que tem funcionalidades como motor de busca, síntaxe de consultas avançadas, formatos de documentos em JSON, integração direto com outros serviços da plataforma e entre outros
 Vamos agora para a parte prática:
 
 ## Construindo o ambiente para desenvolvimento
